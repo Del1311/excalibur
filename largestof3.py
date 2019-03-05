@@ -1,0 +1,13 @@
+a=676767
+b=867687
+c=5746
+if(a>b):
+    if(a>c):    
+        print(a)
+    else:
+        print(c)
+else:
+    if(b>c):
+        print(b)
+    else:
+         print(c)                   
