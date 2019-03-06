@@ -1,7 +1,5 @@
-def mul(x,y):
-    z=x*y
-    return z
+import module
 a=50
 b=5
-c=mul(a,b)
+c=module.mul(a,b)
 print(c)    
